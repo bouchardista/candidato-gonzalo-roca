@@ -1,0 +1,20 @@
+IMÁGENES NECESARIAS:
+
+1. logo-white.png
+   - Logo de Alianza La Libertad Avanza
+   - Fondo transparente
+   - Formato PNG
+   - Tamaño recomendado: 200x80px
+
+2. candidato-foto.jpg
+   - Foto del candidato
+   - Formato cuadrado recomendado
+   - Tamaño mínimo: 400x400px
+   - Fondo neutro o profesional
+
+3. favicon.ico
+   - Icono del sitio web
+   - Formato ICO
+   - Tamaño: 16x16px, 32x32px, 48x48px
+
+Reemplaza este archivo con las imágenes correspondientes.
