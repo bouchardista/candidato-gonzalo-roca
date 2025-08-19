@@ -38,9 +38,6 @@
                   alt="Gonzalo Roca" 
                   class="w-80 h-96 md:w-96 md:h-[500px] rounded-2xl object-cover shadow-2xl border-4 border-white/20"
                 />
-                <div class="absolute -bottom-4 -right-4 bg-white/20 backdrop-blur-sm rounded-full p-4">
-                  <div class="w-4 h-4 bg-white rounded-full"></div>
-                </div>
               </div>
             </div>
           </div>
