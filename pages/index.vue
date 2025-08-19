@@ -109,13 +109,13 @@
           <div class="space-y-6 text-white/80">
             <div class="pt-4 space-y-3">
               <p class="text-lg">
-                <strong class="text-white">X:</strong> <a href="https://x.com/roca_gon" target="_blank" class="text-white/80 hover:text-white transition-colors">x.com/roca_gon</a>
+                <strong class="text-white">X:</strong> <a href="https://x.com/roca_gon" target="_blank" class="text-white/80 hover:text-white transition-colors">@roca_gon</a>
               </p>
               <p class="text-lg">
-                <strong class="text-white">Facebook:</strong> <a href="https://www.facebook.com/gonzalo.roca.18" target="_blank" class="text-white/80 hover:text-white transition-colors">www.facebook.com/gonzalo.roca.18</a>
+                <strong class="text-white">Instagram:</strong> <a href="https://www.instagram.com/gon.roca/" target="_blank" class="text-white/80 hover:text-white transition-colors">@gon.roca</a>
               </p>
               <p class="text-lg">
-                <strong class="text-white">Instagram:</strong> <a href="https://www.instagram.com/gon.roca/" target="_blank" class="text-white/80 hover:text-white transition-colors">www.instagram.com/gon.roca/</a>
+                <strong class="text-white">Facebook:</strong> <a href="https://fb.com/gonzalo.roca.18" target="_blank" class="text-white/80 hover:text-white transition-colors">@gonzalo.roca.18</a>
               </p>
             </div>
           </div>
