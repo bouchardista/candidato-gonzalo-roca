@@ -3,7 +3,7 @@
     <!-- Header -->
     <header class="relative z-10 bg-primary-950/80 backdrop-blur-sm">
       <nav class="px-16 md:px-32 py-6">
-        <div class="flex items-center justify-center space-x-24 md:space-x-[30rem]">
+        <div class="flex items-center justify-center space-x-12 md:space-x-[30rem]">
           <div class="flex items-center">
             <h1 class="text-3xl md:text-4xl font-bold text-white whitespace-nowrap">Gonzalo Roca</h1>
           </div>
@@ -36,7 +36,7 @@
                 <img 
                   src="/gonzalo-roca.jpeg" 
                   alt="Gonzalo Roca" 
-                  class="w-80 h-96 md:w-96 md:h-[500px] rounded-2xl object-cover shadow-2xl border-4 border-white/20"
+                  class="w-80 h-[450px] md:w-96 md:h-[550px] rounded-2xl object-cover shadow-2xl border-4 border-white/20"
                 />
               </div>
             </div>
@@ -107,15 +107,17 @@
           <h2 class="text-4xl font-bold text-white mb-16">Contacto</h2>
           
           <div class="space-y-6 text-white/80">
-            <p class="text-lg">
-              <strong class="text-white">Email:</strong> gonzalo.roca@alianza.com
-            </p>
-            <p class="text-lg">
-              <strong class="text-white">Teléfono:</strong> +54 351 1234-5678
-            </p>
-            <p class="text-lg">
-              <strong class="text-white">Oficina:</strong> Av. Principal 123, Ciudad de Córdoba
-            </p>
+            <div class="pt-4 space-y-3">
+              <p class="text-lg">
+                <strong class="text-white">X:</strong> <a href="https://x.com/roca_gon" target="_blank" class="text-white/80 hover:text-white transition-colors">x.com/roca_gon</a>
+              </p>
+              <p class="text-lg">
+                <strong class="text-white">Facebook:</strong> <a href="https://www.facebook.com/gonzalo.roca.18" target="_blank" class="text-white/80 hover:text-white transition-colors">www.facebook.com/gonzalo.roca.18</a>
+              </p>
+              <p class="text-lg">
+                <strong class="text-white">Instagram:</strong> <a href="https://www.instagram.com/gon.roca/" target="_blank" class="text-white/80 hover:text-white transition-colors">www.instagram.com/gon.roca/</a>
+              </p>
+            </div>
           </div>
         </div>
       </div>
