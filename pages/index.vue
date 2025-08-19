@@ -138,13 +138,13 @@
 useHead({
   title: 'Gonzalo Roca - Candidato a Diputado Nacional',
   meta: [
-    { name: 'description', content: 'Conoce a Gonzalo Roca, candidato a Diputado Nacional y sus propuestas para la comunidad.' },
+    { name: 'description', content: 'Conoce a Gonzalo Roca, candidato a Diputado Nacional. Conoce sus propuestas por una Córdoba más libre.' },
     { property: 'og:title', content: 'Gonzalo Roca - Candidato a Diputado Nacional' },
-    { property: 'og:description', content: 'Conoce a Gonzalo Roca, candidato a Diputado Nacional y sus propuestas para la comunidad.' },
+    { property: 'og:description', content: 'Conoce a Gonzalo Roca, candidato a Diputado Nacional. Conoce sus propuestas por una Córdoba más libre.' },
     { property: 'og:type', content: 'website' },
     { name: 'twitter:card', content: 'summary_large_image' },
     { name: 'twitter:title', content: 'Gonzalo Roca - Candidato a Diputado Nacional' },
-    { name: 'twitter:description', content: 'Conoce a Gonzalo Roca, candidato a Diputado Nacional y sus propuestas para la comunidad.' }
+    { name: 'twitter:description', content: 'Conoce a Gonzalo Roca, candidato a Diputado Nacional. Conoce sus propuestas por una Córdoba más libre.' }
   ]
 })
 </script>
