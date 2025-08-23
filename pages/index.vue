@@ -20,14 +20,33 @@
         <div class="max-w-6xl mx-auto">
           <div class="grid md:grid-cols-2 gap-12 items-center">
             <!-- Contenido de texto -->
-            <div class="text-left px-8 md:px-0">
+            <div class="text-left px-20 md:px-0">
               <p class="text-3xl md:text-5xl text-white/80 mb-8 leading-relaxed">
                 Candidato a Diputado Nacional por la <strong>Alianza La Libertad Avanza</strong>
               </p>
               
-              <p class="text-lg text-white/70 leading-relaxed">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+              <p class="text-lg text-white/70 leading-relaxed mb-8">
+                Junto a Javier Milei y Karina Milei estamos construyendo el futuro de Córdoba y de la Argentina. Cada día somos más los leones que nos despertamos para rugir contra la casta.
               </p>
+              
+              <p class="text-lg text-white/70 leading-relaxed mb-8">
+                Seguime en mis redes para ser parte de esta batalla.
+              </p>
+              
+              <div class="flex space-x-6 mb-8">
+                <a href="https://x.com/roca_gon" target="_blank" class="text-white/80 hover:text-white transition-colors text-lg w-1/3 text-left">
+                  <div><strong>X:</strong></div>
+                  <div>@roca_gon</div>
+                </a>
+                <a href="https://www.instagram.com/gon.roca/" target="_blank" class="text-white/80 hover:text-white transition-colors text-lg w-1/3 text-left">
+                  <div><strong>Instagram:</strong></div>
+                  <div>@gon.roca</div>
+                </a>
+                <a href="https://fb.com/gonzalo.roca.18" target="_blank" class="text-white/80 hover:text-white transition-colors text-lg w-1/3 text-left">
+                  <div><strong>Facebook:</strong></div>
+                  <div>@gonzalo.roca.18</div>
+                </a>
+              </div>
             </div>
             
             <!-- Foto del candidato -->
@@ -46,7 +65,7 @@
     </section>
 
     <!-- Sobre el Candidato -->
-    <section class="pt-12 pb-12 px-4">
+    <!-- <section class="pt-12 pb-12 px-4">
       <div class="container mx-auto">
         <div class="max-w-4xl mx-auto">
           <h2 class="text-4xl font-bold text-white text-center mb-16">Sobre Gonzalo Roca</h2>
@@ -66,10 +85,10 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <!-- Propuestas -->
-    <section class="pt-12 pb-12 px-4">
+    <!-- <section class="pt-12 pb-12 px-4">
       <div class="container mx-auto">
         <div class="max-w-4xl mx-auto">
           <h2 class="text-4xl font-bold text-white text-center mb-16">Propuestas Principales</h2>
@@ -98,33 +117,25 @@
           </div>
         </div>
       </div>
-    </section>
+    </section> -->
 
     <!-- Contacto -->
+    <!-- 
     <section class="pt-12 pb-20 px-4">
       <div class="container mx-auto">
         <div class="max-w-2xl mx-auto text-center">
           <h2 class="text-4xl font-bold text-white mb-16">Contacto</h2>
           
           <div class="space-y-6 text-white/80">
-            <div class="pt-4 space-y-3">
-              <p class="text-lg">
-                <strong class="text-white">X:</strong> <a href="https://x.com/roca_gon" target="_blank" class="text-white/80 hover:text-white transition-colors">@roca_gon</a>
-              </p>
-              <p class="text-lg">
-                <strong class="text-white">Instagram:</strong> <a href="https://www.instagram.com/gon.roca/" target="_blank" class="text-white/80 hover:text-white transition-colors">@gon.roca</a>
-              </p>
-              <p class="text-lg">
-                <strong class="text-white">Facebook:</strong> <a href="https://fb.com/gonzalo.roca.18" target="_blank" class="text-white/80 hover:text-white transition-colors">@gonzalo.roca.18</a>
-              </p>
-            </div>
+            Información de contacto aquí si es necesaria
           </div>
         </div>
       </div>
     </section>
+    -->
 
     <!-- Footer -->
-    <footer class="py-12 px-4 border-t border-white/20">
+    <footer class="py-12 px-4">
       <div class="container mx-auto text-center">
         <p class="text-white/60">
           © 2025 Alianza La Libertad Avanza. Todos los derechos reservados.
