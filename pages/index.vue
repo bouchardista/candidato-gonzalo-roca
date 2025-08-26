@@ -34,9 +34,9 @@
               </p>
               
               <div class="flex space-x-6 mb-8">
-                <a href="https://x.com/roca_gon" target="_blank" class="text-white/80 hover:text-white transition-colors text-lg w-1/3 text-left">
+                <a href="https://x.com/gonzarocacba" target="_blank" class="text-white/80 hover:text-white transition-colors text-lg w-1/3 text-left">
                   <div><strong>X:</strong></div>
-                  <div>@roca_gon</div>
+                  <div>@gonzarocacba</div>
                 </a>
                 <a href="https://www.instagram.com/gon.roca/" target="_blank" class="text-white/80 hover:text-white transition-colors text-lg w-1/3 text-left">
                   <div><strong>Instagram:</strong></div>
